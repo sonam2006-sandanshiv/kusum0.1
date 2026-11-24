@@ -1,4 +1,6 @@
-# Kusum 0.1 — Patient Monitoring Prototype (software-only)
+# kusum0.1
+
+## Kusum 0.1 — Patient Monitoring Prototype (software-only)
 
 Hospital-side camera monitoring with privacy-safe guardian viewing.
 
